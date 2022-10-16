@@ -122,6 +122,7 @@ import "./tests/CaesarBoxCipher.mjs";
 import "./tests/LS47.mjs";
 import "./tests/LZString.mjs";
 import "./tests/X25519.mjs";
+import "./tests/X963KDF.mjs";
 
 // Cannot test operations that use the File type yet
 // import "./tests/SplitColourChannels.mjs";
